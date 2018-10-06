@@ -1,2 +1,2 @@
 # GIT CLI DEMO
-## Demo for Git in Terminal
+Demo for Git in Terminal
